@@ -9,4 +9,4 @@ In order to integrate the hardwares for the system at first all of the required 
 7. Bread board
 
 The circuit diagram of the system is presented as;
-![Getting Started](./Block_diagram.JPG)
+![Getting Started](./Block_diagram.jpg)
